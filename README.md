@@ -1,16 +1,17 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is R Indrajith
 ===================================================================================================================================
 
-Web Developer | EXPLORER
+Versatile WEB & BLOCKCHAIN Developer | EXPLORER
 ------------------------
 
-Working on IOT with WEB2.0 | WEB3.0 | Design EMBEDDED SYSTEMS |
+Working on smartContracts with  DLT | WEB3.0 | HARDHAT | ETHEREUM
 
-* 🌍  I'm based in India
-* 🖥️  See my portfolio at [CHAT-DEV](http://ch-a-t.herokuapp.com)
+* 🌍  I'm based in banglore  India
+* 🖥️  See my portfolio at ([J-DEV](https://j-dev740.github.io/Portfolio/))
 * ✉️  You can contact me at [jithu4cfs@gmail.com](mailto:jithu4cfs@gmail.com)
-* 🧠  I'm learning REACT | EXPRESS | MONGDB |
-* 🤝  I'm open to collaborating on Twisted Projects
+* 🧠  I'm learning  HARDHAT | SOLIDITY | REACT | ETHER.JS | AAVE | NEXT.JS | TAILWIND
+* 👦🏼  Passionate about blockchain technology and its transformative potential. As a seasoned freelance blockchain developer, I bring a wealth of expertise in crafting secure and      efficient decentralized solutions. Proficient in Solidity, I specialize in writing smart contracts, building decentralized applications (DApps), and integrating blockchain technology into real-world scenarios.
+* 🤝 I am eager to join dynamic teams and collaborate on exciting projects that drive technological advancements. Let's connect and explore possibilities together! #BlockchainDeveloper #WebDeveloper #SmartContracts #DAppDevelopment #NFTs #RealTimeWebApps #EmbeddedSystems #DeFi #Innovation
 * ⚡  dEsTrOy -> BUILD
 
 ### Skills
@@ -19,11 +20,12 @@ Working on IOT with WEB2.0 | WEB3.0 | Design EMBEDDED SYSTEMS |
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+
+
 </p>
 
 
