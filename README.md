@@ -1,51 +1,30 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is R Indrajith
-===================================================================================================================================
+[![MasterHead](https://ucarecdn.com/6fcc0819-6c45-4768-a26c-31d017373448/)](https://j-dev740.github.io/Portfolio/)
+<h1 align="center">Hi 👋, I'm R Indrajith</h1>
+<h3 align="center">A passionate & Versatile Web and Blockchain Developer</h3>
 
-Versatile WEB & BLOCKCHAIN Developer | EXPLORER
-------------------------
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=j-dev740&label=Profile%20views&color=0e75b6&style=flat" alt="j-dev740" /> </p>
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/a757fdcf5a47eede49d003a2ba57d217d04b54913f960731119e604aa8e743eb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3732302f302a37513379765349765f7430696f4a2d5a2e676966"/>
 
-Working on smartContracts with  DLT | WEB3.0 | HARDHAT | ETHEREUM
+- 🔭 I’m currently working on **Aaave Protocol**
 
-* 🌍  I'm based in banglore  India
-* 🖥️  See my portfolio at ([J-DEV](https://j-dev740.github.io/Portfolio/))
-* ✉️  You can contact me at [jithu4cfs@gmail.com](mailto:jithu4cfs@gmail.com)
-* 🧠  I'm learning  HARDHAT | SOLIDITY | REACT | ETHER.JS | AAVE | NEXT.JS | TAILWIND
-* 👦🏼  Passionate about blockchain technology and its transformative potential. As a seasoned freelance blockchain developer, I bring a wealth of expertise in crafting secure and      efficient decentralized solutions. Proficient in Solidity, I specialize in writing smart contracts, building decentralized applications (DApps), and integrating blockchain technology into real-world scenarios.
-* 🤝 I am eager to join dynamic teams and collaborate on exciting projects that drive technological advancements. Let's connect and explore possibilities together! #BlockchainDeveloper #WebDeveloper #SmartContracts #DAppDevelopment #NFTs #RealTimeWebApps #EmbeddedSystems #DeFi #Innovation
-* ⚡  dEsTrOy -> BUILD
+- 🌱 I’m currently learning **Hardhat, Solidity ,React, NextJs**
 
-### Skills
+- 👯 I’m looking to collaborate on **ethereum Based Blockchain Projects**
 
+- 👨‍💻 All of my projects are available at [https://j-dev740.github.io/Portfolio/](https://j-dev740.github.io/Portfolio/)
 
+- 📫 How to reach me **jithu4cfs@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-
-
+<a href="https://linkedin.com/in/indrajith-r-b47309287" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="indrajith-r-b47309287" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-### Socials
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=j-dev740&show_icons=true&locale=en&layout=compact" alt="j-dev740" /></p>
 
-<p align="left"> <a href="https://www.github.com/J-dev740" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=j-dev740&show_icons=true&locale=en" alt="j-dev740" /></p>
 
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/J-dev740"><img src="https://github-readme-stats.vercel.app/api?username=J-dev740&show_icons=true&hide=prs,contribs&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="J-dev740's GitHub stats" /></a>
-
-<a href="http://www.github.com/J-dev740"><img src="https://github-readme-streak-stats.herokuapp.com/?user=J-dev740&stroke=ffffff&background=1c1917&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/J-dev740"><img src="https://activity-graph.herokuapp.com/graph?username=J-dev740&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/J-dev740" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=J-dev740&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/J-dev740/demo_deploy" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=J-dev740&repo=demo_deploy&title_color=ef4444&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/J-dev740/esp" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=J-dev740&repo=esp&title_color=ef4444&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=j-dev740&" alt="j-dev740" /></p>
