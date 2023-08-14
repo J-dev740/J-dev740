@@ -11,7 +11,8 @@
 
 - 👯 I’m looking to collaborate on **ethereum Based Blockchain Projects**
 
-- 👨‍💻 All of my projects are available at [https://j-dev740.github.io/Portfolio/](https://j-dev740.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [https://j-dev740.github.io/Portfolio/](https://j-dev740.github.io/Portfolio/) (currently under developMent)
+- One of my WORKS related to WEB DEVELOPMENT  :  [B-Arch Website](https://kav-rjuvmm6re-j-dev740.vercel.app)
 
 - 📫 How to reach me **jithu4cfs@gmail.com**
 
