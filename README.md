@@ -5,14 +5,15 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=j-dev740&label=Profile%20views&color=0e75b6&style=flat" alt="j-dev740" /> </p>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/a757fdcf5a47eede49d003a2ba57d217d04b54913f960731119e604aa8e743eb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3732302f302a37513379765349765f7430696f4a2d5a2e676966"/>
 
-- 🔭 I’m currently working on **Aaave Protocol**
+- 🔭  Currently working on **Aaave Protocol**
 
-- 🌱 I’m currently learning **Hardhat, Solidity ,React, NextJs**
+- 🌱  learning **Hardhat, Solidity ,React, NextJs**
 
 - 👯 I’m looking to collaborate on **ethereum Based Blockchain Projects**
 
 - 👨‍💻 All of my projects are available at [https://j-dev740.github.io/Portfolio/](https://j-dev740.github.io/Portfolio/) (currently under developMent)
 - One of my WORKS related to WEB DEVELOPMENT  :  [B-Arch Website](https://kav-rjuvmm6re-j-dev740.vercel.app)
+- Dapp :[Krypt](https://64da7e30e31abb007b297389--loquacious-sfogliatella-a5f7a1.netlify.app)
 
 - 📫 How to reach me **jithu4cfs@gmail.com**
 
